@@ -14,7 +14,6 @@ Atualmente, estou no **modo construção**: aprimorando minha stack técnica par
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Excel" height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel/217346">
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
@@ -27,15 +26,6 @@ Atualmente, estou no **modo construção**: aprimorando minha stack técnica par
 - 🌱 **Estudando:**
   - **Python:** Automação e Análise de Dados.
   - **Solidity:** Smart Contracts e Blockchain (Web3).
-
----
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natsuKi-ntsk&show_icons=true&theme=modern-lilac&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuKi-ntsk&layout=compact&theme=modern-lilac&hide_border=true&langs_count=6"/>
-</div>
 
 ---
 
