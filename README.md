@@ -1,6 +1,6 @@
 ### Olá! Bem-vindo(a) ao meu perfil. 👋
 
-Sou estudante de graduação em uma **Universidade Federal** no Brasil, focado(a) em tecnologia e inovação.
+Sou estudante de graduação em uma **Universidade Federal** no Brasil, focada em tecnologia e inovação.
 
 Minha trajetória acadêmica combina uma base científica sólida com aplicação prática em desenvolvimento:
 - 🎓 **Formação Base (1º Ciclo):** Inovação, Ciência e Tecnologia.
