@@ -6,7 +6,7 @@ Minha trajetória acadêmica combina uma base científica sólida com aplicaçã
 - 🎓 **Formação Base (1º Ciclo):** Inovação, Ciência e Tecnologia.
 - 💻 **Foco Profissional (2º Ciclo):** Engenharia de Software.
 
-Atualmente, estou no **modo construção**: aprimorando minha stack técnica para resolver problemas reais.
+Atualmente, estou no **modo construção**: aprimorando meus conhecimentos para resolver problemas reais.
 
 ---
 
@@ -25,13 +25,13 @@ Atualmente, estou no **modo construção**: aprimorando minha stack técnica par
 - 📖 **Lendo Agora:** *Entendendo Algoritmos* (Grokking Algorithms).
 - 🌱 **Estudando:**
   - **Python:** Automação e Análise de Dados.
-  - **Solidity:** Smart Contracts e Blockchain (Web3).
+  - **Playwright** 
 
 ---
 
 ### 🗺️ Idiomas & Contato
 
-- 🇺🇸 **Inglês: Avançado** (Cambridge B1 e B2) -> *Rumo ao C2*.
+- 🇺🇸 **Inglês: Avançado** (Cambridge B1 e B2) (Duolingo C1) -> *Rumo ao C2*.
 - 🇯🇵 **Japonês:** Iniciante.
 
 🕵️‍♀️ **Como me encontrar:**
