@@ -7,9 +7,7 @@ Minha trajetória acadêmica combina uma base científica sólida com aplicaçã
 - 💻 **Foco Profissional (2º Ciclo):** Engenharia de Software.
 
 Atualmente, estou no **modo construção**: aprimorando meus conhecimentos para resolver problemas reais.
-
 ---
-
 <br>
 
 ### 📚 Aprendizado Ativo (Status)
