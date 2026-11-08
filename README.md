@@ -8,7 +8,6 @@ Minha trajetória acadêmica combina uma base científica sólida com aplicaçã
 
 Atualmente, estou no **modo construção**: aprimorando meus conhecimentos para resolver problemas reais.
 ---
-<br>
 
 ### 📚 Aprendizado Ativo (Status)
 
