@@ -10,14 +10,6 @@ Atualmente, estou no **modo construção**: aprimorando meus conhecimentos para 
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
-
 <br>
 
 ### 📚 Aprendizado Ativo (Status)
@@ -25,11 +17,11 @@ Atualmente, estou no **modo construção**: aprimorando meus conhecimentos para 
 - 📖 **Lendo Agora:** *Entendendo Algoritmos* (Grokking Algorithms).
 - 🌱 **Estudando:**
   - **Python:** Automação e Análise de Dados.
-  - **Playwright** 
+  - **Playwright:** Teste de Software
 
 ---
 
-### 🗺️ Idiomas & Contato
+### 🗺️ Idiomas 
 
 - 🇺🇸 **Inglês: Avançado** (Cambridge B1 e B2) (Duolingo C1) -> *Rumo ao C2*.
 - 🇯🇵 **Japonês:** Iniciante.
